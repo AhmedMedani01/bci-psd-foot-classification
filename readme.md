@@ -135,20 +135,10 @@ Subject,Accuracy,Sensitivity,Specificity,F1_score,Precision
 A01,0.92,0.88,0.94,0.90,0.89
 A02,0.85,0.81,0.87,0.83,0.82
 ...
-```
-
----
-
-## 🗾 Suggested Repository Name
-
-**`BCI-LDA-FFT`**
-
-> Clear, descriptive, and compact — highlights the dataset (BCI), the classifier (LDA), and the core feature extraction method (FFT-based PSD).
-
 ---
 
 ## 🧩 Future Extensions
-- [] Add frequency-band optimization (automated μ/β tuning).  
-- [] Add CSP (Common Spatial Patterns) features for comparison.  
-- [] Add transfer-learning or subject-independent modeling option.  
-- [] Integrate visualization for power spectra or LDA boundaries.
+- [x] Add frequency-band optimization (automated μ/β tuning).  
+- [x] Add CSP (Common Spatial Patterns) features for comparison.  
+- [x] Add transfer-learning or subject-independent modeling option.  
+- [x] Integrate visualization for power spectra or LDA boundaries.
